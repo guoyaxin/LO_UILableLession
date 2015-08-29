@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NGUI/Scripts/Internal/UIWidget.cs">
+    <Files>
+      <File FileName="Assets/CreateLabelScript.cs" Line="16" Column="36" />
+      <File FileName="Assets/NGUI/Scripts/UI/UILabel.cs" Line="17" Column="28" />
+      <File FileName="Assets/NGUI/Scripts/Internal/UIWidget.cs" Line="197" Column="3" />
+      <File FileName="Assets/NGUI/Scripts/Internal/UIRect.cs" Line="620" Column="61" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
